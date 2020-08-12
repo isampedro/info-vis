@@ -1,1 +1,1 @@
-# info-vis
+# infovis
