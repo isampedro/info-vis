@@ -1,2 +1,3 @@
 # infovis
-[https://isampedro.github.io/infovis/makeovermondayw31.html](Makeover Monday Week 31)
+##Makeover Monday
+[Week 31](https://isampedro.github.io/infovis/makeovermondayw31.html)
