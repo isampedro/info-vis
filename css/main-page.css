@@ -5,6 +5,8 @@ body {
 
 .card {
     width: 40em;
+    border-radius: 1%;
+    background-color: #BFD5E2;
 }
 
 .navbar-text {
