@@ -7,6 +7,16 @@ body {
     width: 40em;
 }
 
+.navbar-text {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    text-align: center;
+    margin: auto;
+    padding-top: 10px;
+    font-size: 2em;
+}
+
 footer {
     background-color: #4e555b;
     position: fixed;
