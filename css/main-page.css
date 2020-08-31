@@ -20,6 +20,10 @@ footer {
     margin: 3em 5em 1.5em 5em;
 }
 
+#displays {
+    margin-bottom: 5em;
+}
+
 .footer-copyright {
     text-align: center;
     color: white;
