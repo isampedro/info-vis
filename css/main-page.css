@@ -4,9 +4,10 @@ body {
 }
 
 .card {
-    width: 40em;
+    width: 32%;
     border-radius: 1%;
     background-color: #BFD5E2;
+    margin-left: 1em;
 }
 
 .navbar-text {
