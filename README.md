@@ -1,5 +1,4 @@
-## Webpage
-* [Infovis Webpage](https://isampedro.github.io/infovis/pages/index.html)
+## [Infovis Webpage](https://isampedro.github.io/infovis/pages/index.html)
 
 ## Makeover Monday
 * [Week 28](https://isampedro.github.io/infovis/pages/makeovermondayw28.html)
