@@ -1,0 +1,25 @@
+body {
+    background-image: url("../images/Background_Photo.jpg");
+    background-size: contain;
+}
+
+.card {
+    width: 40em;
+}
+
+footer {
+    background-color: #4e555b;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 3em;
+    padding-top: 0.7em;
+}
+
+.row {
+    margin: 3em 5em 1.5em 5em;
+}
+
+.footer-copyright {
+    text-align: center;
+}
