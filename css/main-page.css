@@ -29,12 +29,9 @@ footer {
     padding-top: 0.7em;
 }
 
-.row {
-    margin: 3em 5em 1.5em 5em;
-}
-
-#displays {
-    margin-bottom: 5em;
+.displays {
+    margin: 1em 5em 3em 5em;
+    justify-content: center;
 }
 
 .footer-copyright {
