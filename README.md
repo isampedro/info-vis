@@ -8,5 +8,6 @@
 * [Week 33](https://isampedro.github.io/infovis/pages/makeover-monday/week33.html)
 * [Week 34](https://isampedro.github.io/infovis/pages/makeover-monday/week34.html)
 * [Week 35](https://isampedro.github.io/infovis/pages/makeover-monday/week35.html)
+* [Week 36](https://isampedro.github.io/infovis/pages/makeover-monday/week36.html)
 
 ## [Tableau Profile](https://public.tableau.com/profile/ignacio1605#!/)
