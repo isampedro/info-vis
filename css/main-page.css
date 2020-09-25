@@ -38,3 +38,14 @@ footer {
     text-align: center;
     color: white;
 }
+
+svg {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+.displays-wider {
+    justify-content: center;
+    margin: 1em 30em 3em 30em;
+}
