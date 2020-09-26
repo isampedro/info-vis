@@ -47,5 +47,6 @@ svg {
 
 .displays-wider {
     justify-content: center;
+    height: fit-content;
     margin: 1em 28em 3em 28em;
 }
