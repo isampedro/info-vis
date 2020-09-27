@@ -52,12 +52,13 @@ svg {
 }
 
 .row.bg-light {
-    margin: 0.5em 5em 0.5em 5em
+    margin: 0.5em 5em 0.5em 5em;
+    padding-left: 2em;
+    padding-right: 2em;
 }
 
 .wider.row.bg-light {
     margin: 0.5em 28em 0.5em 28em;
-    padding-left: 2em;
-    padding-right: 2em;
+
     text-align: justify;
 }
